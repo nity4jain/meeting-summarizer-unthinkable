@@ -33,3 +33,5 @@ npm run dev
 cd ../frontend  
 npm install
 npm start
+
+[📹 Demo Video (Google Drive)](https://drive.google.com/file/d/1RWRxs27tKTiEHRk8e1kBf3zF7VOGbrFD/view?usp=sharing)
